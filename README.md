@@ -1,6 +1,6 @@
 # Anchorman
 
-It is often said that US media has a liberal bias. While many smaller publications certainly do, this project uses twitter followers and timeline data to investigate whether such claims are true of the four biggest broadcasters, ABC, CBS, FOX and NBC. Like Ron Burgundy in Anchorman, there is surely a little bias, but not as much as you might expect. 
+It is often said that US media has a liberal bias. This project investigates whether the 150,000 most recent followers of the four largest broadcasters, ABC, CBS, FOX and NBC, are more likely to also be new followers of the Democrats or Republicans. Like Will Ferrell's character in Anchorman, the difference is not inconspicuous, but mainly among FOX's high number of Republicans. 
 
 <br/>
 
